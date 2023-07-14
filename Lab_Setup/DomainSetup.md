@@ -32,7 +32,7 @@ This segment is designed to assist beginners in creating Windows virtual machine
 
 - Click on **New** icon
 
-![img_2.png]Images/img_2.png)
+![img_2.png](Images/img_2.png)
 
 - Name your virtual machine. Select the type and version of the operating system you want to set up.
 

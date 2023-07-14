@@ -21,7 +21,7 @@ The motivation behind creating this Active Directory home lab is twofold. Firstl
 ## Getting Started
 To get started with the Active Directory home lab, you'll need the following:
 - Two Windows 10 Pro machines
-- One Ubuntu mail server
+- One UbuntuMail machine
 - One Windows domain controller
 
 ## Lab Setup

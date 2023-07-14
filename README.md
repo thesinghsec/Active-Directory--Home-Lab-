@@ -29,7 +29,7 @@ To get started with the Active Directory home lab, you'll need the following:
 
 2. **Windows 10 Pro Machines:** Set up the Windows 10 Pro machines as workstations using the scripts and configuration files available in the [workstation_setup]( ./Lab_Setup) directory. See the [WorkstationSetup.md](Lab_Setup/WorkstationSetup.md) file for more information.
 
-3. **Ubuntu Mail Server:** Install and configure the Ubuntu mail server using the steps outlined in the [MailServerSetup.md](./docs/MailServerSetup.md) document.
+3. **UbuntuMail Setup:** Install and configure the UbuntuMail Machine using the steps outlined in the [MailServerSetup.md](./Lab_Setup/Ubantu-Mail.md) document.
 
 ## Usage
 Once your Active Directory home lab is set up, you can start exploring various offensive techniques and security concepts. The repository provides scripts and guides for the following topics:

@@ -88,7 +88,7 @@ To access the work or school settings, navigate to the Settings menu and click o
 
 ![img_36.png](Images/img_36.png)
 
--  Access the "Shared" folder among the three available folders. This folder typically contains resources or objects that are shared within the network or domain.
+-  Using the "DC01" IP, Access the "Shared" folder among the three available folders. This folder typically contains resources or objects that are shared within the network or domain.
 
 ![img_37.png](Images/img_37.png)
 

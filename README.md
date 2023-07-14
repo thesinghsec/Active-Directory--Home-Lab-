@@ -25,9 +25,9 @@ To get started with the Active Directory home lab, you'll need the following:
 - One Windows domain controller
 
 ## Lab Setup
-1. **Domain Population and Setup:** Use the scripts provided in the [domain_setup](./domain_setup) directory to populate and set up the Active Directory domain. Refer to the [DomainSetup.md](./docs/DomainSetup.md) guide for detailed instructions.
+1. **Domain Population and Setup:** Use the scripts provided in the [domain_setup](Lab_Setup) directory to populate and set up the Active Directory domain. Refer to the [DomainSetup.md](Lab_Setup/DomainSetup.md) guide for detailed instructions.
 
-2. **Windows 10 Pro Machines:** Set up the Windows 10 Pro machines as workstations using the scripts and configuration files available in the [workstation_setup](./workstation_setup) directory. See the [WorkstationSetup.md](./docs/WorkstationSetup.md) file for more information.
+2. **Windows 10 Pro Machines:** Set up the Windows 10 Pro machines as workstations using the scripts and configuration files available in the [workstation_setup]( ./Lab_Setup) directory. See the [WorkstationSetup.md](Lab_Setup/WorkstationSetup.md) file for more information.
 
 3. **Ubuntu Mail Server:** Install and configure the Ubuntu mail server using the steps outlined in the [MailServerSetup.md](./docs/MailServerSetup.md) document.
 
@@ -55,6 +55,10 @@ By working with the Active Directory Home Lab, you can gain valuable knowledge a
 - **Offensive PowerShell:** Dive into offensive PowerShell techniques, including username and password list generation, password spraying, and more.
 - **Real-World Misconfigurations and Remediation Strategies:** Understand common misconfigurations that occur in real-world pentests and learn effective remediation strategies to report to clients.
 
+By actively engaging with the lab and experimenting with these topics, you can enhance your understanding of Active Directory security, develop practical skills, and strengthen your overall knowledge of offensive techniques and their impact on system security.
+
+Remember, always practice ethical hacking and adhere to responsible use guidelines when conducting any security experiments.
+
 ## Contributing
 Contributions to the Active Directory Home Lab repository are welcome! If you have any improvements, bug fixes, additional scripts, or resources to share, we encourage you to contribute to the project.
 
@@ -65,8 +69,5 @@ You are free to use, modify, and distribute the code and resources in this repos
 
 If you choose to use or build upon this project, we kindly request that you provide attribution by referencing or linking to this repository.
 
-By actively engaging with the lab and experimenting with these topics, you can enhance your understanding of Active Directory security, develop practical skills, and strengthen your overall knowledge of offensive techniques and their impact on system security.
-
-Remember, always practice ethical hacking and adhere to responsible use guidelines when conducting any security experiments.
 
 Happy learning!

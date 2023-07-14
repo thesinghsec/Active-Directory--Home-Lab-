@@ -2,8 +2,6 @@
 
 > **Work-Station Required: Windows 10 pro**
 
-This segment is designed to assist beginners in creating Windows virtual machines in a straightforward manner. If you already have experience with this process, you can skip ahead to.
-
 Follow the identical steps mentioned earlier in the domain setup process to add a virtual machine.
 
 ## Setting up Machines:

@@ -2,7 +2,7 @@
 
 Whole in Virtual Box, hold ctrl+h to launch 'Network Manager'. Alternatively, click on **File > Tools > Network Manager**.
 
-![img_1.png](img_1.png)
+![img_1.png](Images/img_1.png)
 
 Then Click on the "NAT Networks" tab.
 
@@ -24,7 +24,7 @@ Finally, create the "secure" network:
     CIDR: 192.168.116.0/24
     Enable the network by checking the checkbox.
 
-![img.png](img.png)
+![img.png](Images/img.png)
 
 # Creating Virtual Domain:
 
@@ -32,52 +32,52 @@ This segment is designed to assist beginners in creating Windows virtual machine
 
 - Click on **New** icon
 
-![img_2.png](img_2.png)
+![img_2.png]Images/img_2.png)
 
 - Name your virtual machine. Select the type and version of the operating system you want to set up.
 
-![img_3.png](img_3.png)
+![img_3.png](Images/img_3.png)
 
 - Assign the desired amount of RAM for the virtual machine. If your system has limited resources, it is advisable to allocate 2GB of RAM for a swift Windows installation.
 
-![img_4.png](img_4.png)
+![img_4.png](Images/img_4.png)
 
 - In this final step, you will allocate the size of the hard disk that the virtual machine will use. In this case, it is recommended to assign a disk size of 50GB for each virtual machine.
 
-![img_5.png](img_5.png)
+![img_5.png](Images/img_5.png)
 
 
 To select the ISO disc file for your virtual machine, go to the virtualization software interface and locate the created virtual machine named DC01. Access its settings, navigate to the Storage section, and click on the blue disc icon to select the ISO file. Choose the desired ISO file from your system's storage. This will associate the ISO disc file with your virtual machine, allowing you to install or boot from the selected ISO image.
 
-![img_16.png](img_16.png)
+![img_16.png](Images/img_16.png)
 
 # DC Installation:
 
 - Boot the Windows Server virtual machine that you have set up. During the boot process, you will encounter the End-User License Agreement (EULA). Accept the EULA to proceed with the installation process
 
-![img_7.png](img_7.png)
+![img_7.png](Images/img_7.png)
 
 - During the installation process, select the "Custom: Install Windows only (advanced)" option. This will provide you with advanced customization options for installing Windows on your virtual machine.
 
-![img_8.png](img_8.png)
+![img_8.png](Images/img_8.png)
 
 - Select the appropriate drive where you want to install Windows and click on the "Next" button to proceed with the installation process.
 
-![img_9.png](img_9.png)
+![img_9.png](Images/img_9.png)
 
 - After completing the previous step, the installation process will start. Once it's done, you will be asked to create an Administrator password. For this lab exercise, it's suggested to set a strong password like "Password123!" for better security. Enter the password and click "Next" to continue.
 
-![img_10.png](img_10.png)
+![img_10.png](Images/img_10.png)
 
 - Once you successfully log in, you will be greeted with the Server Manager Dashboard.
 
-![img_11.png](img_11.png)
+![img_11.png](Images/img_11.png)
 
 # Setting Up DC:
 
 For the purpose of this course, instead of manually setting up the Domain Controller, we can utilize a collection of PowerShell scripts developed by [TheMayor/Joe Helle](https://twitter.com/i/flow/login?redirect_after_login=%2Fjoehelle). These scripts will create a vulnerable environment that allows us to practice penetration testing and gain insights into various concepts. You can download the scripts from the following GitHub repository: [dievus/ADGenerator](https://github.com/dievus/ADGenerator). Simply follow the instructions provided in the repository to proceed with the setup.
 
-![img_12.png](img_12.png)
+![img_12.png](Images/img_12.png)
 
 - To begin the setup process, the first script you need to execute is "Invoke-ForestDeploy.ps1".
 > _By running the "Invoke-ForestDeploy.ps1" script, you will install the Windows Active Directory Domain Services toolset and generate the domain. Pay close attention to the on-screen instructions and make note of the domain name used during the setup, as it will be required later on. It's crucial to be aware that the scripts are specifically designed for the "mayorsec.local" domain name. Using a different domain name may result in the "ADGenerator.ps1" script not functioning properly._
@@ -172,7 +172,7 @@ Restart the controller if not instructed.
 
 *_Please note that there might be warning messages during the process, but you can disregard them. After the server restarts, you will observe that you are already operating within a domain named "mayorsec."_*
 
-![img_13.png](img_13.png)
+![img_13.png](Images/img_13.png)
 
 - The next step involves running the ADGenerator script. Similar to the previous step, you'll need to set the execution policy to "Unrestricted" and invoke the ADGenerator script. Ensure that you run it with the "DomainName" parameter set to "mayorsec.local".
 
@@ -484,7 +484,7 @@ Description      :
 
 - After successfully running the script, a dialog box will appear. In the dialog box, enter the administrator's password and click "OK."
 
-![img_14.png](img_14.png)
+![img_14.png](Images/img_14.png)
 
 # Change DC01 Network Settings:
 
@@ -502,6 +502,6 @@ Please follow these steps to change the Domain Network to a NAT Network:
 
 By following these steps, you will effectively configure the DC01 virtual machine to use a NAT Network on Secure IP.
 
-![img_15.png](img_15.png)
+![img_15.png](Images/img_15.png)
 
 In summary, you have completed the setup of the Windows virtual machine, executed the required scripts, and made security-enhancing configuration changes. Remember to review scripts before running them for better understanding. By prioritizing security and following best practices, you can create a safe and reliable virtual environment for your needs.

@@ -26,7 +26,7 @@ Finally, create the "secure" network:
 
 ![img.png](img.png)
 
-# Creating Virtual Domain and Work-Stations:
+# Creating Virtual Domain:
 
 This segment is designed to assist beginners in creating Windows virtual machines in a straightforward manner. If you already have experience with this process, you can skip ahead to.
 
@@ -503,3 +503,5 @@ Please follow these steps to change the Domain Network to a NAT Network:
 By following these steps, you will effectively configure the DC01 virtual machine to use a NAT Network on Secure IP.
 
 ![img_15.png](img_15.png)
+
+In summary, you have completed the setup of the Windows virtual machine, executed the required scripts, and made security-enhancing configuration changes. Remember to review scripts before running them for better understanding. By prioritizing security and following best practices, you can create a safe and reliable virtual environment for your needs.

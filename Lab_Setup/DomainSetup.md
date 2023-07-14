@@ -49,7 +49,7 @@ This segment is designed to assist beginners in creating Windows virtual machine
 
 To select the ISO disc file for your virtual machine, go to the virtualization software interface and locate the created virtual machine named DC01. Access its settings, navigate to the Storage section, and click on the blue disc icon to select the ISO file. Choose the desired ISO file from your system's storage. This will associate the ISO disc file with your virtual machine, allowing you to install or boot from the selected ISO image.
 
-![img_6.png](img_6.png)
+![img_16.png](img_16.png)
 
 # DC Installation:
 

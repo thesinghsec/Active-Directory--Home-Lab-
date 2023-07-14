@@ -55,6 +55,16 @@ By working with the Active Directory Home Lab, you can gain valuable knowledge a
 - **Offensive PowerShell:** Dive into offensive PowerShell techniques, including username and password list generation, password spraying, and more.
 - **Real-World Misconfigurations and Remediation Strategies:** Understand common misconfigurations that occur in real-world pentests and learn effective remediation strategies to report to clients.
 
+## Contributing
+Contributions to the Active Directory Home Lab repository are welcome! If you have any improvements, bug fixes, additional scripts, or resources to share, we encourage you to contribute to the project.
+
+## License
+The Active Directory Home Lab repository is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute the code and resources in this repository for both personal and commercial purposes. However, please note that the code and resources are provided "as is" without any warranty. The authors and contributors of this repository will not be liable for any damages or liabilities arising from the use, misuse, or inability to use the code or resources.
+
+If you choose to use or build upon this project, we kindly request that you provide attribution by referencing or linking to this repository.
+
 By actively engaging with the lab and experimenting with these topics, you can enhance your understanding of Active Directory security, develop practical skills, and strengthen your overall knowledge of offensive techniques and their impact on system security.
 
 Remember, always practice ethical hacking and adhere to responsible use guidelines when conducting any security experiments.

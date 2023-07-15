@@ -2,6 +2,8 @@
 
 Download: **[Ubuntu](https://ubuntu.com/download/desktop)**
 
+Reference: [Article for setting up UbuntuMail](https://www.hostinger.co.uk/tutorials/how-to-install-and-setup-mail-server-on-ubuntu/)
+
 -  **Steps to create a virtual machine:**
 
     - Open Virtual Box.

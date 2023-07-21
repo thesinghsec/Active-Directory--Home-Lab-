@@ -25,11 +25,11 @@ To get started with the Active Directory home lab, you'll need the following:
 - One Windows domain controller
 
 ## Lab Setup
-1. **Domain Population and Setup:** Use the scripts provided in the [domain_setup](Lab_Setup) directory to populate and set up the Active Directory domain. Refer to the [DomainSetup.md](Lab_Setup/DomainSetup.md) guide for detailed instructions.
+1. **Domain Population and Setup:** Use the scripts provided in the [domain_setup](Lab_Setup) directory to populate and set up the Active Directory domain. Refer to the [DomainSetup.md](Lab_Setup/2.%20Domain%20Setup.md) guide for detailed instructions.
 
-2. **Windows 10 Pro Machines:** Set up the Windows 10 Pro machines as workstations using the scripts and configuration files available in the [workstation_setup]( ./Lab_Setup) directory. See the [WorkstationSetup.md](Lab_Setup/WorkstationSetup.md) file for more information.
+2. **Windows 10 Pro Machines:** Set up the Windows 10 Pro machines as workstations using the scripts and configuration files available in the [workstation_setup]( ./Lab_Setup) directory. See the [WorkstationSetup.md](Lab_Setup/3.%20Workstations%20Setup.md) file for more information.
 
-3. **UbuntuMail Setup:** Install and configure the UbuntuMail Machine using the steps outlined in the [MailServerSetup.md](./Lab_Setup/Ubantu-Mail.md) document.
+3. **UbuntuMail Setup:** Install and configure the UbuntuMail Machine using the steps outlined in the [MailServerSetup.md](./Lab_Setup/4.%20Ubantu-Mail.md) document.
 
 ## Usage
 Once your Active Directory home lab is set up, you can start exploring various offensive techniques and security concepts. The repository provides scripts and guides for the following topics:
@@ -41,7 +41,7 @@ Once your Active Directory home lab is set up, you can start exploring various o
 - Domain takeover and remediation
 - Offensive PowerShell
 
-Feel free to customize and modify the lab environment according to your requirements. Experiment with different scenarios, test security controls, and learn from the provided resources.
+Feel free to customize and modify the lab environment according to your requirements. Experiment with different scenarios, test security controls and learn from the provided resources.
 
 ## What You Can Learn
 By working with the Active Directory Home Lab, you can gain valuable knowledge and skills in the following areas:

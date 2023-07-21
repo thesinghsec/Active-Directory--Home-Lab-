@@ -1,8 +1,8 @@
 # Creating Virtual UbuntuMail:
 
-Download: **[Ubuntu](https://ubuntu.com/download/desktop)**
+Download: **[Ubuntu-Mail .ova file]([https://ubuntu.com/download/desktop](https://mayorsec-my.sharepoint.com/personal/joe_mayorsec_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fjoe%5Fmayorsec%5Fcom%2FDocuments%2FCourse%20Share%20Drive%2FNet1%20%2D%20UbuntuMail%2Eova&parent=%2Fpersonal%2Fjoe%5Fmayorsec%5Fcom%2FDocuments%2FCourse%20Share%20Drive))**
 
-Reference: [Article for setting up UbuntuMail](https://www.hostinger.co.uk/tutorials/how-to-install-and-setup-mail-server-on-ubuntu/)
+OR
 
 -  **Steps to create a virtual machine:**
 
@@ -101,3 +101,5 @@ Open the terminal application on your Ubuntu virtual machine and enter the comma
 ![img_19.png](Images/ub-images/img_19.png)
 
  You have successfully completed the installation of Ubuntu as a virtual machine, configured network settings, and performed additional steps to ensure connectivity.
+
+ Reference: [Article for setting up UbuntuMail]([https://www.hostinger.co.uk/tutorials/how-to-install-and-setup-mail-server-on-ubuntu/)](https://tecadmin.net/how-to-install-roundcube-webmail-on-ubuntu-20-04/)

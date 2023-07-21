@@ -28,7 +28,7 @@ Finally, create the "secure" network:
 
 # Creating Virtual Domain:
 
-### Server 2019 ISO Download: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019
+#### Server 2019 ISO file download: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019
 
 This segment is designed to assist beginners in creating Windows virtual machines in a straightforward manner. If you already have experience with this process, you can skip ahead to.
 

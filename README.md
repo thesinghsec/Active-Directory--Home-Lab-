@@ -62,6 +62,12 @@ Remember, always practice ethical hacking and adhere to responsible use guidelin
 ## Contributing
 Contributions to the Active Directory Home Lab repository are welcome! If you have any improvements, bug fixes, additional scripts, or resources to share, we encourage you to contribute to the project.
 
+## Contact Me
+
+If you have any questions or need further assistance, feel free to reach out to me:
+
+- LinkedIn:[Bikramjeet Singh](https://www.linkedin.com/in/thesinghsec/)
+
 ## License
 The Active Directory Home Lab repository is licensed under the [MIT License](LICENSE).
 

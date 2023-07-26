@@ -10,6 +10,7 @@ Welcome to the Active Directory Home Lab repository! This repository serves as a
 - [Usage](#usage)
 - [What You Can Learn](#what-you-can-learn)
 - [Contributing](#contributing)
+- [Contact Me](#contact-me)
 - [License](#license)
 
 ## Introduction

@@ -67,7 +67,7 @@ Contributions to the Active Directory Home Lab repository are welcome! If you ha
 
 If you have any questions or need further assistance, feel free to reach out to me:
 
-- LinkedIn:[Bikramjeet Singh](https://www.linkedin.com/in/thesinghsec/)
+- LinkedIn: [Bikramjeet Singh](https://www.linkedin.com/in/thesinghsec/)
 
 ## License
 The Active Directory Home Lab repository is licensed under the [MIT License](LICENSE).

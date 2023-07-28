@@ -1,6 +1,6 @@
 # Active Directory Home Lab
 
-Welcome to the Active Directory Home Lab repository! This repository serves as a resource for managing and documenting your Active Directory (AD) home lab setup. It includes scripts and guides to help you set up and explore various aspects of Active Directory, such as domain population and setup, external exploitation, C2 exploitation, credential harvesting, offensive PowerShell, and more. The lab consists of two Windows 10 Pro machines, one Ubuntu mail server, and one Windows domain controller.
+The Active Directory Home Lab repository provides you with an environment to learn and experiment with Active Directory security and offensive techniques. It covers a wide range of topics, including domain population and setup, external exploitation, C2 exploitation, credential harvesting, offensive PowerShell, and more. By setting up this lab, you can gain hands-on experience and enhance your understanding of Active Directory security.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,9 +12,6 @@ Welcome to the Active Directory Home Lab repository! This repository serves as a
 - [Contributing](#contributing)
 - [Contact Me](#contact-me)
 - [License](#license)
-
-## Introduction
-The Active Directory Home Lab repository provides you with an environment to learn and experiment with Active Directory security and offensive techniques. It covers a wide range of topics, including domain population and setup, external exploitation, C2 exploitation, credential harvesting, offensive PowerShell, and more. By setting up this lab, you can gain hands-on experience and enhance your understanding of Active Directory security.
 
 ## Motivation
 The motivation behind creating this Active Directory home lab is twofold. Firstly, it provides me with an opportunity to gain practical, hands-on experience and enhance my knowledge of Active Directory. I am always eager to explore new technologies and constantly seek new challenges. Secondly, I wanted to create a repository that simplifies the process of setting up an Active Directory environment at home, making it more accessible for others who are also interested in learning and experimenting with Active Directory. By sharing this repository, I hope to inspire and enable others to easily create their own AD environments and engage in valuable learning experiences. Throughout the setup, I encountered and solved various problems, honing my problem-solving skills and resilience. By sharing my solutions, I aim to contribute to a supportive learning community.

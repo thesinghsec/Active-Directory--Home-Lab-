@@ -71,7 +71,7 @@ The Active Directory Home Lab repository is licensed under the [MIT License](LIC
 
 You are free to use, modify, and distribute the code and resources in this repository for both personal and commercial purposes. However, please note that the code and resources are provided "as is" without any warranty. The authors and contributors of this repository will not be liable for any damages or liabilities arising from the use, misuse, or inability to use the code or resources.
 
-If you choose to use or build upon this project, we kindly request that you provide attribution by referencing or linking to this repository.
+If you choose to use or build upon this project, I kindly request that you provide attribution by referencing or linking to this repository.
 
 
 Happy learning!

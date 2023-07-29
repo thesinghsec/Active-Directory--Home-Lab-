@@ -1,4 +1,4 @@
-# Active Directory Home Lab:
+# Active Directory Home Lab
 
 The Active Directory Home Lab repository provides you with an environment to learn and experiment with Active Directory security and offensive techniques. It covers a wide range of topics, including domain population and setup, external exploitation, C2 exploitation, credential harvesting, offensive PowerShell, and more. By setting up this lab, you can gain hands-on experience and enhance your understanding of Active Directory security.
 
